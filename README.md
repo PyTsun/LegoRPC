@@ -1,2 +1,2 @@
-# LegoRPC
-LegoRPC - A Better Roblox Discord RPC
+# RobloxRPC
+RobloxRPC - A Better Roblox Discord RPC
